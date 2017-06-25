@@ -1,0 +1,38 @@
+body{
+    /*width: 80%;*/
+    /*text-align: left;*/
+    padding:0 20px;
+}
+
+article{
+    text-align: left;
+    max-width: 100%;
+}
+
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+footer{
+    text-align: center;
+}
+
+#gitthis{
+  font-size:30px;
+}
+#submit{
+  text-align: center;
+}
+#emailform{
+  margin: 0 auto;
+  text-align: center;
+}
+#sayhi{
+  background-color: #E2E2E2;
+}
+#email{
+  text-align: center;
+  background-color: #D7FEBD
+}
