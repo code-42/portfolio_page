@@ -7,13 +7,30 @@ body{
 
 article{
     text-align: left;
-    max-width: 100%;
+    max-width: 80%;
 }
 
 img{
+    /*width: 100%;*/
     display: block;
     margin-left: auto;
     margin-right: auto;
+}
+
+.featurette-image{
+    width:100%;
+}
+
+#NASDAQapp{
+    width: 100%;
+}
+
+#tribute_page{
+  width:100%;
+}
+
+#old_next_sticker{
+  width:100%;
 }
 
 footer{
@@ -51,5 +68,9 @@ footer{
 .carousel-control.right{
   margin-right: 25px;
 }
+
+
+
+
 
 
